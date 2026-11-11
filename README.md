@@ -90,8 +90,8 @@ Machine Learning
 
 🤝 Connect With Me
 
-- LinkedIn: "Add Your LinkedIn URL" (https://www.linkedin.com/)
-- GitHub: "Add Your GitHub Profile URL" (https://github.com/)
+- LinkedIn:(https://www.linkedin.com/in/shivam-kumar-081a422b6)
+
 
 ---
 
